@@ -1,0 +1,7 @@
+version 1.2
+date 08-09-2010
+comments: fixed a bug related to missing pointers and added some test files for different languages
+
+version 1.1
+date: 25-06-2009
+comments: fixed a problem with some words that caused a NullPointerException
