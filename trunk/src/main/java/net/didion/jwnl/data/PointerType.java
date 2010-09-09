@@ -1,6 +1,9 @@
 /**
  * Java WordNet Library (JWNL)
  * See the documentation for copyright information.
+ * This file has been initially developed in the original JWNL library and
+has been modified by University of Rome, Tor Vergata, to allow for JMWNL
+extension to reuse JWNL code.
  */
 package net.didion.jwnl.data;
 

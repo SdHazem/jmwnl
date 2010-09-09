@@ -1,14 +1,19 @@
 /**
- * Java WordNet Library (JWNL)
- * See the documentation for copyright information.
+ * Java Multi WordNet Library (JMWNL)
+ * See the documentation of the original JWNL and of its JMWNL extension for
+copyright information.
+ * This class file is contributed by:
+ * University of Roma Tor Vergata.
+ * Portions created by University of Roma Tor Vergata are Copyright (C)
+2008.
+ * All Rights Reserved.
  */
 
-/*
-
-	author: John Didion
-	contributors: Alexandra Tudorache
-
-*/
+/**
+ * @author Alexandra Tudorache <tudorache@info.uniroma2.it>
+ * @author Andrea Turbati <turbati@info.uniroma2.it>
+ * @author Armando Stellato <stellato@info.uniroma2.it>
+ */
 
 package it.uniroma2.art.jmwnl.ewn.data;
 
