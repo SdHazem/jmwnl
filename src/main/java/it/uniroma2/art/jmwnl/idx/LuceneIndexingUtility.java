@@ -1,5 +1,15 @@
-  /*
-   * Author : Alexandra Tudorache
+/**
+ * Java Multi WordNet Library (JMWNL)
+ * See the documentation of the original JWNL and of its JMWNL extension for
+copyright information.
+ * This class file is contributed by:
+ * University of Roma Tor Vergata.
+ * Portions created by University of Roma Tor Vergata are Copyright (C)
+2008.
+ * All Rights Reserved.
+ */
+
+/**
    *
    * this class uses lucene indexing engine to index lemmas in eurowordnet vocabularies
    * this is necessary since algorithmic stemming used for european languages
